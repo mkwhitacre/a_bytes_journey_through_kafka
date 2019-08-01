@@ -10,3 +10,8 @@ Apache Kafka has quickly become the a integral part of Cerner’s data processin
 As a significant distributed system, developer’s can often be deceived by Kafka’s getting started guide, quickly making assumptions that lead to poor performance or inaccurate results.  Digging into the details of Kafka will help developers getting started know about the important decisions to make and the effect of those decisions.
 
 Told in the style of a children’s picture book, illustrating the story of a byte traveling through Kafka from producer to broker to consumer and all of the steps in between will help to explain the ins and out f Kafka.  The byte’s life story in Kafka will also help operators understand their options for maintaining a healthy Kafka cluster.
+
+## Video
+
+A recording of this presentation is available on YouTube:
+https://www.youtube.com/watch?v=k60CoVxVxUM
